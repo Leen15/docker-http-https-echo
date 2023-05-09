@@ -9,8 +9,7 @@ It comes with various options that can manipulate the response output, see the t
 
 ![browser](https://raw.githubusercontent.com/mendhak/docker-http-https-echo/master/screenshots/screenshot.png)
 
-The image is available on [Docker Hub](https://hub.docker.com/r/mendhak/http-https-echo): `mendhak/http-https-echo:29`  
-The image is available on [Github Container Registry](https://github.com/mendhak/docker-http-https-echo/pkgs/container/http-https-echo): `ghcr.io/mendhak/http-https-echo:29`
+The image is available on [Docker Hub](https://hub.docker.com/r/leen15/echo): `leen15/echo:0.1` 
 
 Please do not use the `:latest` tag as it will break without warning, use a specific version instead.
 
